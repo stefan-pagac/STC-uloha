@@ -5,3 +5,5 @@ Commands in order:
 - tsc #Compile to JavaScript
 - npm run start #Start the project
 ahoj
+ahoj
+
